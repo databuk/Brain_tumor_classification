@@ -1,9 +1,9 @@
 pandas
 numpy
 matplotlib
-opencv-python==4.8.1.78
-opencv-python-headless
 scikit-learn
 tensorflow
 streamlit
 keras
+opencv-python-headless
+
